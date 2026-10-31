@@ -1,0 +1,2 @@
+[2026-10-29T13:14:14.205Z] INVALID registration: Enter a valid email address.; PRN must contain exactly 12 digits.; Mobile number must be 10 digits and start with 6, 7, 8, or 9.\n[2026-10-29T13:14:35.885Z] VALID registration: Rohan Reshi | rohan.reshi@example.com
+[2026-10-29T13:14:35.887Z] INVALID registration: Name must contain at least 2 characters.; Enter a valid email address.; PRN must contain exactly 12 digits.; Mobile number must be 10 digits and start with 6, 7, 8, or 9.; Choose a valid course from the available list.
